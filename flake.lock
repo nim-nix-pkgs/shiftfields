@@ -219,11 +219,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334791,
-        "narHash": "sha256-rgUJKBA4ByZrWGz+37GTLxXXLVenisIyjlTNV5F1pWM=",
+        "lastModified": 1668749045,
+        "narHash": "sha256-2gY3NLJ5r3VJ4Rz4Y/prYl43WovmAAIZMPszKURWg/Q=",
         "owner": "nim-nix-pkgs",
         "repo": "shiftfields",
-        "rev": "5e02e77615766f6edfa48a4bcd6d12fc4af548d0",
+        "rev": "0688c9e5f5136326d6db37651c6b15c98e374ae8",
         "type": "github"
       },
       "original": {
